@@ -1,7 +1,11 @@
 Mywechat
 ========
 
-Î»ÖÃĞ¡ÖúÊÖ£ºÒ»¸ö´î½¨ÔÚBAEÉÏµÄÌá¹©ÌìÆøÔ¤±¨¡¢¹«½»²éÑ¯¡¢ÊµÊ±·­ÒëºÍ¾°Çø½²½âµÈLBS¹¦ÄÜµÄÎ¢ĞÅ¹«¹²ºÅ¡£
+ä½ç½®å°åŠ©æ‰‹ï¼šä¸€ä¸ªæ­å»ºåœ¨BAEä¸Šçš„æä¾›å¤©æ°”é¢„æŠ¥ã€å…¬äº¤æŸ¥è¯¢ã€å®æ—¶ç¿»è¯‘å’Œæ™¯åŒºè®²è§£ç­‰LBSåŠŸèƒ½çš„å¾®ä¿¡å…¬å…±å·ã€‚
 
 =======
-
+Some function written by java on the server like :
+1.Weather forecast
+2. Transit query
+3.Real-time Translation
+4.Location and return true coordinate .
