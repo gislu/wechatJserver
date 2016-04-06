@@ -1,4 +1,4 @@
-Mywechat Official Accounts<br />
+Mywechat Server <br />
 ========<br />
 Some function operated by java serlvet on the server (belong to the Wechat) like :<br />
 1.Weather forecast<br />
